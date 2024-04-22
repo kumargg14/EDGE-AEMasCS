@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p24803-e916115.adobeaemcloud.com/kumargg14/EDGE-AEMasCS/main"
+    url: "https://author-p24803-e916115.adobeaemcloud.com/bin/franklin.delivery/kumargg14/EDGE-AEMasCS/main"
     type: "markup"
     suffix: ".html"
